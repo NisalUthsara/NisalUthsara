@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning about Software engineering.
+🌱 I'm enthusiastic in full stack development.
 
 
 # 💻 Tech Stack:
